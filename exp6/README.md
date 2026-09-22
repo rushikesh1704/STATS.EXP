@@ -8,8 +8,8 @@
 -   **Class:** TE-AI&DS
 -   **Semester:** V
 -   **Experiment Number:** 6
--   **Student Name:** Vedant Kishor Mhatre
--   **Roll No.:** 72
+-   **Student Name:** Rushikesh Subhash Khemnar
+-   **Roll No.:** 81
 
 ## Title
 
