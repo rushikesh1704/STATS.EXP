@@ -275,7 +275,4 @@ The model assumes a primarily linear relationship between the predictors
 and BMI. Real-world relationships between medical attributes and BMI may
 be nonlinear, so a linear model may not capture all important patterns.
 
-## Author
 
-**Vedant Kishor Mhatre**\
-Roll No.: 72
